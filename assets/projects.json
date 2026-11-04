@@ -1,0 +1,155 @@
+[
+  {
+    "key": "mall",
+    "name": "Al Yahar Mall",
+    "category": "Commercial",
+    "location": "Al Yahar, Al Ain",
+    "consultant": "VR Architecture Engineering Consultancy",
+    "description": "A completed commercial development in Al Yahar, combining a broad retail frontage with associated building and external works. The project reflects the site coordination required to align construction activities, facade details and finishing requirements within a commercial setting.",
+    "focus": "Construction execution and site coordination, with attention to commercial building works, finishes and approved project requirements.",
+    "owner": null,
+    "period": null
+  },
+  {
+    "key": "knowledge",
+    "name": "Knowledge International School",
+    "category": "Education",
+    "location": "Schools Street, Al Ain",
+    "consultant": "Farid Design",
+    "description": "A completed school project on Schools Street, Al Ain, delivered over a six-month execution period. The development required organised site planning and coordination of building works and finishes to meet the approved educational building requirements.",
+    "focus": "Coordinating construction teams, building works and finishing activities with the consultant and owner.",
+    "owner": null,
+    "period": "6 months"
+  },
+  {
+    "key": "khalil",
+    "name": "Al Khalil International School",
+    "category": "Education",
+    "location": "Al Ain",
+    "consultant": "Dar Architectural Consultancy",
+    "description": "A completed school development in Al Ain, strengthening our education-sector portfolio. Construction delivery focused on implementing approved building details, coordinating site activities and maintaining consistent workmanship across the school facilities.",
+    "focus": "School building execution, supervision and coordination of construction and finishing requirements.",
+    "owner": null,
+    "period": null
+  },
+  {
+    "key": "al_noud",
+    "name": "Al Noud Industrial & Commercial Complex",
+    "category": "Industrial & commercial",
+    "location": "Al Noud / Wadi Al Ain 1, Al Ain",
+    "consultant": "The Violet Engineering Consultant Office",
+    "description": "A completed industrial and commercial development comprising warehouses, workshops, shops, an office building and an electrical room. The project brings together retail frontage, operational areas and supporting facilities, requiring coordination across the building works and external site areas.",
+    "focus": "Execution planning and coordination of building works, industrial spaces, supporting facilities and external areas.",
+    "owner": null,
+    "period": null
+  },
+  {
+    "key": "industrial_concept_a",
+    "name": "Industrial & Retail Compound",
+    "category": "Industrial",
+    "location": "Al Ain",
+    "consultant": "Ayla Engineering Consultancy",
+    "description": "A completed industrial and retail compound combining high-bay warehouse halls, administration facilities and trade units with spacious service and loading areas. Delivery brought together industrial building works, supporting facilities and coordinated external works.",
+    "focus": "Coordination of commercial spaces, warehouse works, service access and external areas."
+  },
+  {
+    "key": "industrial_concept_b",
+    "name": "Warehouse & Workshop Compound",
+    "category": "Industrial",
+    "location": "Al Ain",
+    "consultant": "Ayla Engineering Consultancy",
+    "description": "A completed industrial development combining warehouse halls, workshop areas and a compact administration block. A practical layout supports vehicle movement and the relationship between operational and support spaces.",
+    "focus": "Industrial building execution, loading access, administration spaces and coordinated external works."
+  },
+  {
+    "key": "residential",
+    "name": "Al Mansouri Residential Compound",
+    "category": "Residential",
+    "location": "Al Ain",
+    "consultant": "Al Hiwar Engineering Consultancy",
+    "description": "A multi-unit residential development for Mubarak Al Mansouri. The compound extends the company's residential experience beyond individual villas, bringing together repeated building elements, shared access and the coordination needs of a larger residential site.",
+    "focus": "Organising site activities and resources across a multi-unit development, with attention to construction consistency and finishing works.",
+    "owner": "Mubarak Al Mansouri",
+    "period": null
+  },
+  {
+    "key": "simple_a",
+    "name": "Residential Building - Al Asharej",
+    "category": "Residential",
+    "location": "Al Asharej, Al Ain",
+    "consultant": "AIDEC",
+    "description": "A completed residential building in Al Asharej, incorporating a central entrance, repeated apartment openings and practical external finishes. Construction delivery combined building execution with the coordination of finishes, access and external areas.",
+    "focus": "Building works and finishes; coordination of access, external areas and inspection requirements.",
+    "owner": "Ali Al Nuaimi"
+  },
+  {
+    "key": "simple_b",
+    "name": "Mixed-Use Building - Al Asharej",
+    "category": "Residential",
+    "location": "Al Asharej, Al Ain",
+    "consultant": "AIDEC",
+    "description": "A completed mixed-use building in Al Asharej, with retail units at ground level and residential accommodation above. The project required coordination between the commercial frontage, residential works and shared building elements.",
+    "focus": "Structural works, shopfronts and residential finishes, coordinated to approved drawings and specifications.",
+    "owner": "Saeed Al Muqbali"
+  },
+  {
+    "key": "simple_c",
+    "name": "Apartment Building - Al Khabisi",
+    "category": "Residential",
+    "location": "Al Khabisi, Al Ain",
+    "consultant": "Sara Engineering Consultancy",
+    "description": "A completed apartment building in Al Khabisi, with a central stairwell and a straightforward residential facade. The work brought together site supervision, construction activities and finishing details in line with approved project requirements.",
+    "focus": "Site supervision, material coordination, work sequencing and inspections with the relevant project parties.",
+    "owner": "Mohamed Al Mansouri"
+  },
+  {
+    "key": "simple_d",
+    "name": "Residential Building - Al Khabisi",
+    "category": "Residential",
+    "location": "Al Khabisi, Al Ain",
+    "consultant": "Al Hiwar Engineering Consultancy",
+    "description": "A completed residential investment building in Al Khabisi, incorporating recessed balconies, painted facades and ground-level parking. Delivery covered coordinated building and finishing works, together with the related external areas.",
+    "focus": "Execution of building and finishing works, supported by owner, consultant and municipality coordination.",
+    "owner": "Sheikha Al Shamsi"
+  },
+  {
+    "key": "villas1",
+    "name": "Al Muwaiji Villa Compound",
+    "category": "Villas",
+    "location": "Al Muwaiji, Al Ain",
+    "consultant": "Al Hosn Engineering Consultancy",
+    "owner": "Mohamed Al Shamsi",
+    "description": "A completed villa compound in Al Muwaiji, combining individual residences within one coordinated development. Delivery required organised site activities, resource planning and consistent follow-up on building works and finishes across the compound.",
+    "focus": "Coordination of villa construction, site teams and finishing requirements across the compound."
+  },
+  {
+    "key": "villas2",
+    "name": "Two Villas, Al Maqam",
+    "category": "Villas",
+    "location": "Al Maqam, Al Ain",
+    "consultant": "Funoon Al Emara",
+    "owner": "Dhafer Sahmi Al Ahbabi",
+    "description": "A completed two-villa development in Al Maqam. Site delivery brought together construction sequencing, material coordination and finishing activities to implement the approved residential requirements across both homes.",
+    "focus": "Execution of approved villa works, with coordinated supervision and follow-up on construction details."
+  },
+  {
+    "key": "villas3",
+    "name": "Private Villa, Al Maqam",
+    "category": "Villas",
+    "location": "Al Maqam, Al Ain",
+    "consultant": "Funoon Al Emara",
+    "owner": "Mohamed Ali Hadi Al Ahbabi",
+    "description": "A completed private villa in Al Maqam, delivered through coordinated building and finishing works. The project required close follow-up on approved details and the interfaces between construction elements, facade works and residential finishes.",
+    "focus": "Site execution, technical coordination and attention to the junctions and finishes that shape the completed residence."
+  },
+  {
+    "key": "villas4",
+    "name": "Private Villa, Zakher",
+    "category": "Villas",
+    "location": "Zakher, Al Ain",
+    "consultant": "Ebla Engineering Consultancy",
+    "owner": "Saeed Sultan Al Shamsi",
+    "description": "A completed private residence in Zakher, adding to our experience in detailed villa execution. Work coordination focused on the relationship between building activities, facade details and internal and external finishes.",
+    "focus": "Coordinating construction teams and residential finishing works with the owner and appointed consultant."
+  }
+]
